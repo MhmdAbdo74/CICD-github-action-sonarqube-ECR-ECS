@@ -68,5 +68,3 @@
 ![Screenshot 2023-12-01 011616](https://github.com/AbdelrhmanAli123/CICD-github-action-sonarqube-ECR-ECS/assets/133269614/4835c860-d6e0-464d-b3cb-08c6bb0ead63)
 
 ### Finally it works fine :)
-# CICD-github-action-sonarqube-ECR-ECS
-# CICD-github-action-sonarqube-ECR-ECS
